@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hey i'm AJ ⚰️
 
-<!--
-**Clxcked/Clxcked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Currently am working on qb-core resources from the QB-Core discord ()
 
-Here are some ideas to get you started:
+---------------------
+## Popular Resources
+no good resources made rn, still learning the framework!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+![stats](https://github-readme-stats.vercel.app/api?username=clxcked&count_private=true&show_icons=true&theme=dracula&layout=compact&hide_title=true&hide_rank=false)
+
+<!-- ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ihyajb&layout=compact&theme=dracula) -->
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
