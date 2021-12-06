@@ -1,4 +1,4 @@
-## Hey i'm AJ ⚰️
+## Hey i'm Christian!! ⚰️
 
 #### Currently am working on qb-core resources from the QB-Core discord ()
 
