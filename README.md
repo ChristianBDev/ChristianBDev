@@ -1,15 +1,14 @@
-## Hey i'm Christian!! ⚰️
+## Hey i'm Christian!!
 
-#### Currently am working on qb-core resources from the QB-Core discord ()
+#### Currently am working on Front-End Development()
 
 ---------------------
-## Popular Resources
-no good resources made rn, still learning the framework!
+## Popular Projects
+No popular projects right now!
 
 ## Github Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=ChristianBDev&count_private=true&show_icons=true&theme=dracula&layout=compact&hide_title=true&hide_rank=false)
 
-<!-- ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ihyajb&layout=compact&theme=dracula) -->
 © 2021 GitHub, Inc.
 Terms
 Privacy
