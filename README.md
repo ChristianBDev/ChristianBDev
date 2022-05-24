@@ -8,13 +8,13 @@ No popular projects right now!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/xander1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="xander1998" height="30" width="40" /></a>
-<a href="https://dev.to/xander1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xander1998" height="30" width="40" /></a>
-<a href="https://twitter.com/xavier19981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xavier19981" height="30" width="40" /></a>
-<a href="https://codesandbox.com/xander1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="xander1998" height="30" width="40" /></a>
-<a href="https://instagram.com/xander11949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xander11949" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xander1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xander1998" height="30" width="40" /></a>
-<a href="https://discord.gg/fPTwXZRUu8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fPTwXZRUu8" height="30" width="40" /></a>
+<a href="https://codepen.io/ChristianBDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="xander1998" height="30" width="40" /></a>
+<a href="https://dev.to/ChristianBDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xander1998" height="30" width="40" /></a>
+<a href="https://twitter.com/ChristianBDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xavier19981" height="30" width="40" /></a>
+<a href="https://codesandbox.com/ChristianBDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="xander1998" height="30" width="40" /></a>
+<a href="https://instagram.com/ChristianBDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xander11949" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ChristianBDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xander1998" height="30" width="40" /></a>
+<a href="https://discord.gg/Bysgy2tPsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fPTwXZRUu8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
