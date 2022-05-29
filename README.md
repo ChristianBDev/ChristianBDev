@@ -1,10 +1,8 @@
 ## Hey i'm Christian!!
 
-#### Currently am working on Front-End Development()
+#### Currently am working on Front-End Development
 
 ---------------------
-## Popular Projects
-No popular projects right now!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
