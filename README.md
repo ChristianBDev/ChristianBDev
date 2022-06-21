@@ -1,7 +1,7 @@
 <h1 align="center">Hey i'm Christian!!</h1>
 
 <h2 align="center"> About me </h2>
-<p align="center"> My name is Christian, I am a Junior Software Engineer from Illinois.I am currently at Eastern Illinois University getting a Bachelors in Computer & Information technology. Learning to be a Full Stack Developer, or Data Engineer.
+<p align="center"> My name is Christian, I am a Junior Software Engineer from Illinois. I am currently at Eastern Illinois University getting a Bachelors in Computer & Information technology. Learning to be a Full Stack Developer, or Data Engineer.
 
   ---------------------
   
