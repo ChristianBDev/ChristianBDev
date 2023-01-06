@@ -12,7 +12,6 @@
 ---
 
 <p align="center"> 🔭 I’m currently working on ... 100Devs LearningWithLeon & Some personal side projects</P>
-<p align="center">🌱 I’m currently learning ... <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" height="40" style="max-width: 100%;"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React.JS" height="40" style="max-width: 100%;"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.JS" height="40" style="max-width: 100%;"></P>
 <p align="center">👯 I’m looking to collaborate on ... anything that anyone that needs help with or a project they are working on</P>
 <p align="center">🎓 Undergrad: ... Bachelors in Computer & Information Technology @ Eastern Illinois University</P>
 <p align="center">⚡ Fun fact: ... I am also in the US Army National Guard, 4 1/2 years in. I have a 4 year old son.</P>
