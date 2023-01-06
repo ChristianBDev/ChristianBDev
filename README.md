@@ -40,7 +40,7 @@
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React.JS" height="40" style="max-width: 100%;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.JS" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.JS" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" style="max-width: 100%;">
 </p>
 
