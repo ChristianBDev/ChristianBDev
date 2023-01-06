@@ -26,6 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SCSS" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PhP" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="SQL" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="40" style="max-width: 100%;">
@@ -38,6 +39,7 @@
 
 <h3 align="center">Currently Learning!</h3>
 <p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PhP" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React.JS" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.JS" height="40" style="max-width: 100%;">
@@ -49,6 +51,7 @@
 <h3 align="center">Frameworks</h3>
 
 <p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="PhP" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.JS" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.JS" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.JS" height="40" style="max-width: 100%;">
