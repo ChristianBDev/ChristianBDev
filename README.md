@@ -1,16 +1,12 @@
 <div align="center">
-  <h1 align="center">Hey i'm Christian!!</h1>
-
   <div align="center">
     <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500px" />
   </div>
-  <h2 align="center"> About me</h2>
-  <a align="center" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+%F0%9F%96%90%EF%B8%8F+I+am+Christian+Bennett!!!;Currently%2C+a+Student+%40EIU%2C+Learning!" alt="Typing SVG"/>
-  </a>
   <br>
-
-  ---
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&height=25&lines=Hello%2C+I+am+Christian+Bennett;Currently+a+Student+%40+EIU;Learning+Computer+%26+Information+Technolgy" alt="Typing SVG" />
+  </a>
+  <h2 align="center"> About me</h2>
 
   <p align="center"> My name is Christian, I am a Junior Software Engineer from Illinois. I am currently at Eastern Illinois University getting a Bachelors in Computer & Information technology. Learning to be a Full Stack Developer, or Data Engineer.
 
@@ -19,7 +15,7 @@
   <p align="center"> 🔭 I’m currently working on ... 100Devs LearningWithLeon & Some personal side projects</P>
   <p align="center">👯 I’m looking to collaborate on ... anything that anyone that needs help with or a project they are working on</P>
   <p align="center">🎓 Undergrad: ... Bachelors in Computer & Information Technology @ Eastern Illinois University</P>
-  <p align="center">⚡ Fun fact: ... I am also in the US Army National Guard, 4 1/2 years in. I have a 4 year old son.</P>
+  <p align="center">⚡ Fun fact: ... I am also in the US Army National Guard (5 years in)</P>
 
   ---
 
