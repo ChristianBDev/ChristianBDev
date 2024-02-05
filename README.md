@@ -6,7 +6,7 @@
    <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&height=25&lines=Hello%2C+I+am+Christian+Bennett;Currently+a+Student+%40+EIU;Learning+Computer+%26+Information+Technolgy" alt="Typing SVG" />
   </a>
-  <h2 align="center"> About me</h2>
+  <h2 align="center">About me</h2>
 
   <p align="center"> My name is Christian, I am a Junior Software Engineer from Illinois. I am currently at Eastern Illinois University getting a Bachelors in Computer & Information technology. Learning to be a Full Stack Developer, or Data Engineer.
 
@@ -33,6 +33,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.JS" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="LUA" height="40" style="max-width: 100%;">
   </p>
 
   ---
