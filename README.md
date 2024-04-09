@@ -33,7 +33,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.JS" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="40" style="max-width: 100%;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="LUA" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="LUA" height="40" style="max-width: 100%;">
   </p>
 
   ---
