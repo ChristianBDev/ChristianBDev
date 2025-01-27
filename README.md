@@ -81,6 +81,5 @@
   </p>
 
   <h3 align="Center">Stats:</h3>
-
-  [![Discord Presence](https://lanyard.cnrad.dev/api/166100171602526209)](https://discord.com/users/166100171602526209)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianbdev)](https://github.com/anuraghazra/github-readme-stats)
 </div>
