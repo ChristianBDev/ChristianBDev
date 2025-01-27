@@ -80,6 +80,12 @@
     <a href="https://www.linkedin.com/in/christian-bennett-4a79a3191/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" height="30" width="40" /></a>
   </p>
 
-  <h3 align="Center">Stats:</h3>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianbdev)](https://github.com/anuraghazra/github-readme-stats)
+  # 📈 GitHub Stats
+
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=christianbdev&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christianbdev&locale=en&hide_title=false&layout=compact&card_width=495&langs_count=5&theme=transparent&hide_border=true" alt="Languages Graph">
+  </p>
+  <br>
 </div>
