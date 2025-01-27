@@ -8,14 +8,15 @@
   </a>
   <h2 align="center">About me</h2>
 
-  <p align="center"> My name is Christian, I am a Junior Software Engineer from Illinois. I am currently at Eastern Illinois University getting a Bachelors in Computer & Information technology. Learning to be a Full Stack Developer, or Data Engineer.
+  <p align="center"> My name is Christian, I am a Junior Software Engineer from Illinois on my own time while working Fulltime @ Eastern Illinois University. I graduated with my Bachelors of Science in Computer & Information Technology, now obtaining my Masters Degree in Computer Technology.</p>
 
   ---
 
-  <p align="center"> 🔭 I’m currently working on ... 100Devs LearningWithLeon & Some personal side projects</P>
-  <p align="center">👯 I’m looking to collaborate on ... anything that anyone that needs help with or a project they are working on</P>
-  <p align="center">🎓 Undergrad: ... Bachelors in Computer & Information Technology @ Eastern Illinois University</P>
-  <p align="center">⚡ Fun fact: ... I am also in the US Army National Guard (5 years in)</P>
+  <p align="center"> 🔭 I’m currently working on ... Work projects and FiveM side projects</p>
+  <p align="center">👯 I’m looking to collaborate on ... anything that anyone that needs help with or a project they are working on</p>
+  <p align="center">🎓 Undergrad: ... Bachelors of Science in Computer & Information Technology @ Eastern Illinois University</p>
+  <p align="center">🎓 [Inprogress] Graduate: ... Masters of Science in Computer Technology @ Eastern Illinois University</p>
+  <p align="center">⚡ Fun fact: ... I am also in the US Army National Guard (7 years in)</p>
 
   ---
 
@@ -52,7 +53,7 @@
   <h3 align="center">Frameworks</h3>
 
   <p align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="PhP" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Laravel" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.JS" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.JS" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.JS" height="40" style="max-width: 100%;">
