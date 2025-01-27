@@ -81,11 +81,7 @@
   </p>
 
   # 📈 GitHub Stats
-
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=christianbdev&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christianbdev&locale=en&hide_title=false&layout=compact&card_width=495&langs_count=5&theme=transparent&hide_border=true" alt="Languages Graph">
-  </p>
-  <br>
+  ![christianbdev's Stats](https://github-readme-stats.vercel.app/api?username=christianbdev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+  ![christianbdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=christianbdev&theme=vue-dark&hide_border=false)
+  ![christianbdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christianbdev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 </div>
